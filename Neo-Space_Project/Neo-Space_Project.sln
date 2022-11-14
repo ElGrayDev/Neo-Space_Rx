@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo-Space_Project", "Neo-Space_Project.csproj", "{1C419145-40E7-1E38-0F8C-9178ADFCD461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo-Space_Project.Editor", "Neo-Space_Project.Editor.csproj", "{FC1BCFE8-45AE-97EB-C9D0-1F0E3D3B19AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C419145-40E7-1E38-0F8C-9178ADFCD461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C419145-40E7-1E38-0F8C-9178ADFCD461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C419145-40E7-1E38-0F8C-9178ADFCD461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C419145-40E7-1E38-0F8C-9178ADFCD461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1BCFE8-45AE-97EB-C9D0-1F0E3D3B19AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1BCFE8-45AE-97EB-C9D0-1F0E3D3B19AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1BCFE8-45AE-97EB-C9D0-1F0E3D3B19AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1BCFE8-45AE-97EB-C9D0-1F0E3D3B19AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
